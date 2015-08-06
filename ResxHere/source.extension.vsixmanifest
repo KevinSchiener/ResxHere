@@ -1,11 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="ResxHere.Company.b4728a30-568f-4d29-9d3c-c4cd60e06d27" Version="0.1" Language="en-US" Publisher="Kevin Erler" />
+    <Identity Id="ResxHere.Company.b4728a30-568f-4d29-9d3c-c4cd60e06d27" Version="0.2" Language="en-US" Publisher="Kevin Erler" />
     <DisplayName>ResxHere</DisplayName>
     <Description xml:space="preserve">Allows you to quickly create Resource Files (*.resx) for a selected class (*.cs) in Solution Explorer.</Description>
     <License>License.txt</License>
-    <ReleaseNotes>Initial release</ReleaseNotes>
     <Icon>Resources\icon.png</Icon>
     <PreviewImage>Resources\preview.png</PreviewImage>
     <Tags>resx localization productivity</Tags>
