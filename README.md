@@ -1,3 +1,5 @@
+**This repository is no longer actively maintained.**
+
 # ResxHere
 
 Visual Studio Extension to quickly create resx files.
